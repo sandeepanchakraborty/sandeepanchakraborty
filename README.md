@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm currently pursuing an Integrated M.Tech in Artificial Intelligence and Machine Learning at **VIT Bhopal University** with a CGPA of **8.53**.
+🎓 I'm currently pursuing an Integrated M.Tech in Artificial Intelligence and Machine Learning at **VIT  University**
 
 💻 I specialize in developing full-stack applications using the **MERN stack** and have a keen interest in **AI & ML**, particularly in **Deep Learning** and **Computer Vision**.
 
