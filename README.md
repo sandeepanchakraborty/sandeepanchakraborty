@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/sandeepanchakraborty/sandeepanchakraborty/blob/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" alt="Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sandeepan Chakraborty</h1>
 <h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | AI & ML Engineer</h3>
