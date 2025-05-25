@@ -1,5 +1,9 @@
-![Banner](https://your-image-url.com/banner.png)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/sandeepanchakraborty/sandeepanchakraborty/blob/main/assets/banner.png" alt="Banner" />
+  
 
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Sandeepan Chakraborty</h1>
