@@ -1,7 +1,5 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" alt="Banner" />
-</p>
+![Banner](https://your-image-url.com/banner.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Sandeepan Chakraborty</h1>
