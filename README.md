@@ -40,7 +40,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepanchakraborty&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepanchakraborty&show_icons=true&count_private=true&theme=dark&include_all_commits=true&langs_count=10&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=0d1117&icon_color=2bbc8a&border_color=ffffff)
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepanchakraborty&theme=gruvbox" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepanchakraborty&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
