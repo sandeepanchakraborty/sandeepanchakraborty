@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/sandeepanchakraborty/sandeepanchakraborty/blob/main/assets/banner.png" alt="Banner" />
-  
+  ![Banner](https://github.com/sandeepanchakraborty/sandeepanchakraborty/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
+
 
 </p>
 
