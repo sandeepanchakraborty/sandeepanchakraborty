@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandeepan Chakraborty</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast | AI & ML Engineer</h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Sandeepan-chakraborty/">
